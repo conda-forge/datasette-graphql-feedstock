@@ -1,5 +1,5 @@
 {% set name = "datasette-graphql" %}
-{% set version = "2.1.1" %}
+{% set version = "2.1.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/datasette-graphql-{{ version }}.tar.gz
-  sha256: ecfdc5950ee8bf4e0c1efdf0d31cceb26ea35ae38193a6cea1534df8ce3f7a78
+  sha256: 1b171a7c72c316278c974ea3a1c7836cb559421599f54304ca27ef8349f9b963
 
 build:
   noarch: python
