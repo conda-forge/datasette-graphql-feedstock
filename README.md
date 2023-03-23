@@ -1,11 +1,11 @@
-About datasette-graphql
-=======================
+About datasette-graphql-feedstock
+=================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/datasette-graphql-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/simonw/datasette-graphql
 
 Package license: SGI-B-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/datasette-graphql-feedstock/blob/main/LICENSE.txt)
 
 Summary: Datasette plugin providing an automatic GraphQL API for your SQLite databases
 
